@@ -12,5 +12,11 @@ package com.mycompany.aula7;
 public class Principal {
     public static void main(String[] args) {
         
+        //Cauculo calc = new Cauculo();        
+        //calc.soma(); 
+       
+        Aluno a = new Aluno();
+        
+        a.CadastrarAluno();
     }
 }
